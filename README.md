@@ -4,6 +4,15 @@ An Arduino-based real-time environmental monitoring system that measures air qua
 
 ---
 
+## 🕹️ Interactive Simulation
+
+You can test and preview this project virtually before building the physical circuit!
+
+* **Tinkercad Link:** [Run the Simulation Here](https://www.tinkercad.com/things/616z23nfxv9-air-pollution-monitoring?sharecode=F2p_4bgg2vghVcjJJWmic1bXdq6xhddi_rimvoQ_duQ)
+* **What you can do:** Adjust the gas concentration slider in the simulation to see the LCD dynamically change labels from "Fresh Air" to "Dangerous Air" and watch Pin 8 trigger the alert.
+
+---
+
 ## ✨ Features
 * **Real-time PPM Tracking:** Continuous polling of air quality index via analog sensing.
 * **Smart Visual Feedback:** Integrated 16x2 LCD screen displaying live PPM values and a categorical safety status.
